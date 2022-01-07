@@ -1,5 +1,5 @@
 # load_test_kb
-Hi ever this is result for question point Q2 load testing kitabisa
+Hi everyone this is result for question point Q2 load testing kitabisa
 
 ## Running load test
 - first for running from UI please open jmeter
